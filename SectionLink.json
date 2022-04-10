@@ -1,0 +1,310 @@
+[
+  {
+    title: 'BIFROST',
+    items: [
+      {
+        title: 'Network: Pre-Launch Staking',
+        link: [
+          {
+            key: 'en',
+            value:
+              'https://staking.thebifrost.io/?utm_medium=web&utm_source=bifrost_hub&utm_campaign=footer',
+          },
+        ],
+        help: [
+          {
+            key: 'en',
+            value:
+              'https://medium.com/bifrost/bifrost-will-become-a-cross-chain-network-bfc-token-burn-3ab4e86604ab?source=friends_link&sk=1fe76c177c49898b07d5fe988b77f288',
+          },
+          {
+            key: 'ko',
+            value:
+              'https://medium.com/bifrost-blog-kor/bifrost-cross-chain-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A4%80%EB%B9%84-bfc-%EC%86%8C%EA%B0%81-81e42ac43ca9?source=friends_link&sk=e893a55a3bb45a6a74cabe16e2141fd2',
+          },
+          {
+            key: 'cn',
+            value:
+              'https://medium.com/@BIFROST_CN/%E5%87%86%E5%A4%87bifrost-cross-chain-%E7%BD%91%E7%BB%9C-bfc-burn-9199f6328aa2?source=friends_link&sk=2ad75e79d63cf78bc7cdae5227233e42',
+          },
+        ],
+        video: [
+          {
+            key: 'en',
+            value: 'https://youtu.be/1sqh9TGCCPs',
+          },
+          {
+            key: 'ko',
+            value: 'https://youtu.be/gp7JEjrF2QA',
+          },
+          {
+            key: 'cn',
+            value: 'https://youtu.be/1sqh9TGCCPs',
+          },
+        ],
+      },
+      {
+        title: 'Middleware Platform',
+        link: [
+          {
+            key: 'en',
+            value:
+              'https://thebifrost.io/?utm_medium=web&utm_source=bifrost_hub&utm_campaign=footer',
+          },
+        ],
+        help: [
+          {
+            key: 'en',
+            value: 'https://thebifrost.io/static/Bifrost_WP_Eng.pdf',
+          },
+          {
+            key: 'ko',
+            value: 'https://thebifrost.io/static/Bifrost_WP_Kor.pdf',
+          },
+        ],
+        video: [
+          {
+            key: 'en',
+            value: 'https://www.youtube.com/watch?v=aTpM7Qv4lJ8&t=51s',
+          },
+        ],
+      },
+    ],
+  },
+  {
+    title: 'DeFi',
+    items: [
+      {
+        title: 'BiFi',
+        link: [
+          {
+            key: 'en',
+            value:
+              'https://app.bifi.finance/?utm_medium=web&utm_source=bifrost_hub&utm_campaign=footer',
+          },
+        ],
+        help: [
+          {
+            key: 'en',
+            value: 'https://docs.bifi.finance/guide',
+          },
+          {
+            key: 'ko',
+            value: 'https://docs.bifi.finance/guide-ko',
+          },
+          {
+            key: 'cn',
+            value: 'https://docs.bifi.finance/bifi-zh',
+          },
+        ],
+        video: [
+          {
+            key: 'en',
+            value: 'https://www.youtube.com/watch?v=NWyZ-Iicshg',
+          },
+          {
+            key: 'ko',
+            value: 'https://www.youtube.com/watch?v=n-RocXwV-tg&t=129s',
+          },
+          {
+            key: 'cn',
+            value: 'https://www.youtube.com/watch?v=NWyZ-Iicshg',
+          },
+        ],
+      },
+      {
+        title: 'BiFi X',
+        link: [
+          {
+            key: 'en',
+            value:
+              'https://x.bifi.finance/?utm_medium=web&utm_source=bifrost_hub&utm_campaign=footer',
+          },
+        ],
+        help: [
+          {
+            key: 'en',
+            value: 'https://docs.bifi.finance/bifi-x/',
+          },
+          {
+            key: 'ko',
+            value: 'https://docs.bifi.finance/bifi-x-ko/',
+          },
+          {
+            key: 'cn',
+            value: 'https://docs.bifi.finance/bifi-x-zh/',
+          },
+        ],
+        video: [
+          {
+            key: 'en',
+            value: 'https://www.youtube.com/watch?v=qvbnDzn34IM&t=127s',
+          },
+          {
+            key: 'ko',
+            value: 'https://www.youtube.com/watch?v=jV-3sMqxkmg&t=137s',
+          },
+          {
+            key: 'cn',
+            value: 'https://www.youtube.com/watch?v=qvbnDzn34IM&t=127s',
+          },
+        ],
+      },
+      {
+        title: 'ChainRunner Q',
+        link: [
+          {
+            key: 'en',
+            value:
+              'https://q.chainrunner.io/?utm_medium=web&utm_source=bifrost_hub&utm_campaign=footer',
+          },
+        ],
+        help: [
+          {
+            key: 'en',
+            value:
+              'https://medium.com/bifrost/what-is-chainrunner-bbe81422fc16?source=friends_link&sk=f5592cb7fcbc933630576140771d4d15',
+          },
+          {
+            key: 'ko',
+            value:
+              'https://medium.com/bifrost-blog-kor/chainrunner%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-45d36e0fd221?source=friends_link&sk=3932ab87e3a9e3bcf6cf9076dfe23c51',
+          },
+          {
+            key: 'cn',
+            value:
+              'https://medium.com/bifrost/chainrunner%E4%B8%8A%E7%BA%BF%E5%95%A6-43653a32f946?source=friends_link&sk=ad3c904616d26d4e665dfd208425928b',
+          },
+        ],
+        video: [
+          {
+            key: 'en',
+            value:
+              'https://www.youtube.com/watch?v=h6m4x-CnMV8&list=PL2vuJd1qLwtCGDx--1sBTSc7BiNApEGc3',
+          },
+          {
+            key: 'ko',
+            value:
+              'https://www.youtube.com/watch?v=7Qe4wgfbNfA&list=PL2vuJd1qLwtAsbBnM4TE3Xgjh0KkG4FGE',
+          },
+          {
+            key: 'cn',
+            value:
+              'https://www.youtube.com/watch?v=h6m4x-CnMV8&list=PL2vuJd1qLwtCGDx--1sBTSc7BiNApEGc3',
+          },
+        ],
+      },
+    ],
+  },
+  {
+    title: 'Wallet',
+    items: [
+      {
+        title: 'Biport',
+        link: [
+          {
+            key: 'en',
+            value: 'https://biport.io/?utm_medium=web&utm_source=bifrost_hub&utm_campaign=footer',
+          },
+        ],
+        help: [
+          {
+            key: 'en',
+            value: 'https://docs.bifi.finance/biport-guide/',
+          },
+          {
+            key: 'ko',
+            value: 'https://docs.bifi.finance/biport-guide-kr/',
+          },
+          {
+            key: 'cn',
+            value: 'https://docs.bifi.finance/biport-wallet-guide_zh/',
+          },
+        ],
+        video: [
+          {
+            key: 'en',
+            value: 'https://www.youtube.com/watch?v=pBi9FazItAc&t=7s',
+          },
+        ],
+      },
+    ],
+  },
+  {
+    title: 'P2E',
+    items: [
+      {
+        title: 'Summoner',
+        link: [
+          {
+            key: 'en',
+            value:
+              'https://thesummoner.io/?utm_medium=web&utm_source=bifrost_hub&utm_campaign=footer',
+          },
+        ],
+        help: [
+          {
+            key: 'en',
+            value: 'https://docs.bifi.finance/summoner-en/introduction/what-is-summoner',
+          },
+          {
+            key: 'ko',
+            value: 'https://docs.bifi.finance/summoner-kr/introduction/summoner',
+          },
+          {
+            key: 'cn',
+            value: 'https://docs.bifi.finance/p2e-summoner-cn/introduction/shen-me-shi-summoner',
+          },
+        ],
+        video: [
+          {
+            key: 'en',
+            value: 'https://www.youtube.com/watch?v=fIOeFQDHqwA',
+          },
+        ],
+      },
+    ],
+  },
+  {
+    title: 'BDAO',
+    items: [
+      {
+        title: 'GBiFi Swap',
+        link: [
+          {
+            key: 'en',
+            value: 'https://gov.bifi.finance/',
+          },
+        ],
+        help: [
+          {
+            key: 'en',
+            value: 'https://docs.bifi.finance/guide/more/bdao-en',
+          },
+          {
+            key: 'ko',
+            value: 'https://docs.bifi.finance/guide-ko/more/bdao',
+          },
+          {
+            key: 'cn',
+            value: 'https://docs.bifi.finance/bifi-zh/more/bdao',
+          },
+        ],
+      },
+    ],
+  },
+  {
+    title: 'Token',
+    items: [
+      {
+        title: 'BFC & BiFi',
+        link: [
+          {
+            key: 'en',
+            value: 'https://bifi.link/s',
+          },
+        ],
+      },
+    ],
+  },
+]
