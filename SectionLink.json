@@ -231,41 +231,6 @@
     ]
   },
   {
-    "title": "P2E",
-    "items": [
-      {
-        "title": "Summoner",
-        "link": [
-          {
-            "key": "en",
-            "value":
-            "https://thesummoner.io/?utm_medium=web&utm_source=bifrost_hub&utm_campaign=footer"
-          }
-        ],
-        "help": [
-          {
-            "key": "en",
-            "value": "https://docs.bifi.finance/summoner-en/introduction/what-is-summoner"
-          },
-          {
-            "key": "ko",
-            "value": "https://docs.bifi.finance/summoner-kr/introduction/summoner"
-          },
-          {
-            "key": "cn",
-            "value": "https://docs.bifi.finance/p2e-summoner-cn/introduction/shen-me-shi-summoner"
-          }
-        ],
-        "video": [
-          {
-            "key": "en",
-            "value": "https://www.youtube.com/watch?v=fIOeFQDHqwA"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "BDAO",
     "items": [
       {
