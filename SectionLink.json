@@ -55,11 +55,11 @@
         "help": [
           {
             "key": "en",
-            "value": "https://thebifrost.io/static/Bifrost_WP_Eng.pdf"
+            "value": "https://raw.githubusercontent.com/bifrost-platform/BifrostHub/master/static/Bifrost_WP_Eng.pdf"
           },
           {
             "key": "ko",
-            "value": "https://thebifrost.io/static/Bifrost_WP_Kor.pdf"
+            "value": "https://raw.githubusercontent.com/bifrost-platform/BifrostHub/master/static/Bifrost_WP_Kor.pdf"
           }
         ],
         "video": [
